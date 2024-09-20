@@ -1,0 +1,241 @@
+ID,COUNTRY_NAME,COUNTRY_CODE
+100,Afghanistan,AF
+101,Albania,AL
+102,Algeria,DZ
+103,American Samoa,AS
+104,Andorra,AD
+105,Angola,AO
+106,Anguilla,AI
+107,Antarctica,AQ
+108,Antigua and Barbuda,AG
+109,Argentina,AR
+110,Armenia,AM
+111,Aruba,AW
+112,Australia,AU
+113,Austria,AT
+114,Azerbaijan,AZ
+115,Bahamas,BS
+116,Bahrain,BH
+117,Bangladesh,BD
+118,Barbados,BB
+119,Belarus,BY
+120,Belgium,BE
+121,Belize,BZ
+122,Benin,BJ
+123,Bermuda,BM
+124,Bhutan,BT
+125,Bolivia,BO
+126,Bosnia and Herzegovina,BA
+127,Botswana,BW
+128,Brazil,BR
+129,British Indian Ocean Territory,IO
+130,British Virgin Islands,VG
+131,Brunei,BN
+132,Bulgaria,BG
+133,Burkina Faso,BF
+134,Burundi,BI
+135,Cambodia,KH
+136,Cameroon,CM
+137,Canada,CA
+138,Cape Verde,CV
+139,Cayman Islands,KY
+140,Central African Republic,CF
+141,Chad,TD
+142,Chile,CL
+143,China,CN
+144,Christmas Island,CX
+145,Cocos Islands,CC
+146,Colombia,CO
+147,Comoros,KM
+148,Cook Islands,CK
+149,Costa Rica,CR
+150,Croatia,HR
+151,Cuba,CU
+152,Curacao,CW
+153,Cyprus,CY
+154,Czech Republic,CZ
+155,Democratic Republic of the Congo,CD
+156,Denmark,DK
+157,Djibouti,DJ
+158,Dominica,DM
+159,Dominican Republic,DO
+160,East Timor,TL
+161,Ecuador,EC
+162,Egypt,EG
+163,El Salvador,SV
+164,Equatorial Guinea,GQ
+165,Eritrea,ER
+166,Estonia,EE
+167,Ethiopia,ET
+168,Falkland Islands,FK
+169,Faroe Islands,FO
+170,Fiji,FJ
+171,Finland,FI
+172,France,FR
+173,French Polynesia,PF
+174,Gabon,GA
+175,Gambia,GM
+176,Georgia,GE
+177,Germany,DE
+178,Ghana,GH
+179,Gibraltar,GI
+180,Greece,GR
+181,Greenland,GL
+182,Grenada,GD
+183,Guam,GU
+184,Guatemala,GT
+185,Guernsey,GG
+186,Guinea,GN
+187,Guinea-Bissau,GW
+188,Guyana,GY
+189,Haiti,HT
+190,Honduras,HN
+191,Hong Kong,HK
+192,Hungary,HU
+193,Iceland,IS
+194,India,IN
+195,Indonesia,ID
+196,Iran,IR
+197,Iraq,IQ
+198,Ireland,IE
+199,Isle of Man,IM
+200,Israel,IL
+201,Italy,IT
+202,Ivory Coast,CI
+203,Jamaica,JM
+204,Japan,JP
+205,Jersey,JE
+206,Jordan,JO
+207,Kazakhstan,KZ
+208,Kenya,KE
+209,Kiribati,KI
+210,Kosovo,XK
+211,Kuwait,KW
+212,Kyrgyzstan,KG
+213,Laos,LA
+214,Latvia,LV
+215,Lebanon,LB
+216,Lesotho,LS
+217,Liberia,LR
+218,Libya,LY
+219,Liechtenstein,LI
+220,Lithuania,LT
+221,Luxembourg,LU
+222,Macau,MO
+223,Macedonia,MK
+224,Madagascar,MG
+225,Malawi,MW
+226,Malaysia,MY
+227,Maldives,MV
+228,Mali,ML
+229,Malta,MT
+230,Marshall Islands,MH
+231,Mauritania,MR
+232,Mauritius,MU
+233,Mayotte,YT
+234,Mexico,MX
+235,Micronesia,FM
+236,Moldova,MD
+237,Monaco,MC
+238,Mongolia,MN
+239,Montenegro,ME
+240,Montserrat,MS
+241,Morocco,MA
+242,Mozambique,MZ
+243,Myanmar,MM
+244,Namibia,NA
+245,Nauru,NR
+246,Nepal,NP
+247,Netherlands,NL
+248,Netherlands Antilles,AN
+249,New Caledonia,NC
+250,New Zealand,NZ
+251,Nicaragua,NI
+252,Niger,NE
+253,Nigeria,NG
+254,Niue,NU
+255,North Korea,KP
+256,Northern Mariana Islands,MP
+257,Norway,NO
+258,Oman,OM
+259,Pakistan,PK
+260,Palau,PW
+261,Palestine,PS
+262,Panama,PA
+263,Papua New Guinea,PG
+264,Paraguay,PY
+265,Peru,PE
+266,Philippines,PH
+267,Pitcairn,PN
+268,Poland,PL
+269,Portugal,PT
+270,Puerto Rico,PR
+271,Qatar,QA
+272,Republic of the Congo,CG
+273,Reunion,RE
+274,Romania,RO
+275,Russia,RU
+276,Rwanda,RW
+277,Saint Barthelemy,BL
+278,Saint Helena,SH
+279,Saint Kitts and Nevis,KN
+280,Saint Lucia,LC
+281,Saint Martin,MF
+282,Saint Pierre and Miquelon,PM
+283,Saint Vincent and the Grenadines,VC
+284,Samoa,WS
+285,San Marino,SM
+286,Sao Tome and Principe,ST
+287,Saudi Arabia,SA
+288,Senegal,SN
+289,Serbia,RS
+290,Seychelles,SC
+291,Sierra Leone,SL
+292,Singapore,SG
+293,Sint Maarten,SX
+294,Slovakia,SK
+295,Slovenia,SI
+296,Solomon Islands,SB
+297,Somalia,SO
+298,South Africa,ZA
+299,South Korea,KR
+300,South Sudan,SS
+301,Spain,ES
+302,Sri Lanka,LK
+303,Sudan,SD
+304,Suriname,SR
+305,Svalbard and Jan Mayen,SJ
+306,Swaziland,SZ
+307,Sweden,SE
+308,Switzerland,CH
+309,Syria,SY
+310,Taiwan,TW
+311,Tajikistan,TJ
+312,Tanzania,TZ
+313,Thailand,TH
+314,Togo,TG
+315,Tokelau,TK
+316,Tonga,TO
+317,Trinidad and Tobago,TT
+318,Tunisia,TN
+319,Turkey,TR
+320,Turkmenistan,TM
+321,Turks and Caicos Islands,TC
+322,Tuvalu,TV
+323,U.S. Virgin Islands,VI
+324,Uganda,UG
+325,Ukraine,UA
+326,United Arab Emirates,AE
+327,United Kingdom,GB
+328,United States,US
+329,Uruguay,UY
+330,Uzbekistan,UZ
+331,Vanuatu,VU
+332,Vatican,VA
+333,Venezuela,VE
+334,Vietnam,VN
+335,Wallis and Futuna,WF
+336,Western Sahara,EH
+337,Yemen,YE
+338,Zambia,ZM
+339,Zimbabwe,ZW

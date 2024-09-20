@@ -1,0 +1,44 @@
+{
+  "coord": {
+    "lon": 139.55,
+    "lat": -32.5833
+  },
+  "weather": [
+    {
+      "id": 800,
+      "main": "Clear",
+      "description": "clear sky",
+      "icon": "01d"
+    }
+  ],
+  "base": "stations",
+  "main": {
+    "temp": 293.73,
+    "feels_like": 292.6,
+    "temp_min": 293.73,
+    "temp_max": 293.73,
+    "pressure": 1013,
+    "humidity": 29,
+    "sea_level": 1013,
+    "grnd_level": 978
+  },
+  "visibility": 10000,
+  "wind": {
+    "speed": 8.06,
+    "deg": 224,
+    "gust": 7.64
+  },
+  "clouds": {
+    "all": 1
+  },
+  "dt": 1726722074,
+  "sys": {
+    "country": "AU",
+    "sunrise": 1726691730,
+    "sunset": 1726734953
+  },
+  "timezone": 34200,
+  "id": 2057192,
+  "name": "Yunta",
+  "cod": 200
+}
